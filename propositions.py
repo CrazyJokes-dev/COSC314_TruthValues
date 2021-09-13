@@ -1,8 +1,11 @@
 
 # inputs
-p = [True, True, False,False]
-q = [True, False, True,False]
+p = [True, True, False, False]
 
+q = [True, False, True, False]
+
+# Nice job! I do like how you thought of doing implication
+# I find it kind of cool that python has these in-built functions
 
 print("Conjunction:")
 for i in range(0, len(p)):
